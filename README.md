@@ -1,5 +1,5 @@
 ## haaaai!
-im kira, 18 y.o. girl who coding Python for fun because can't understand how to do it professionally
+im kira, 18 y.o. girl coding Python for fun because can't understand how to do it professionally
 - i did automatic archival repo for Tomsk area in wplace.live using ai and realized **ai is shit**
 - currently working on ["Markov chain"-powered Telegram bot](https://github.com/ugliestie/openglypa) for groups
 
