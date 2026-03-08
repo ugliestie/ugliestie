@@ -1,16 +1,16 @@
-## Hi there 👋
+## haaaai!
+im kira, 18 y.o. girl who coding Python for fun because can't understand how to do it professionally
+- i did automatic archival repo for Tomsk area in wplace.live using ai and realized **ai is shit**
+- currently working on ["Markov chain"-powered Telegram bot](https://github.com/ugliestie/openglypa) for groups
 
-<!--
-**ugliestie/ugliestie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<picture>
+  <img width="150" height="20" alt="this user is trans" src="https://github.com/user-attachments/assets/8e4ab996-b102-4077-adb1-14977385cded" />
+</picture>
+</div>
+<div align="center">
+<picture>
+  <a href='https://blinkies.cafe' target='_blank'><img src='https://blinkies.cafe/b/display/blinkiesCafe-badge.gif' alt='blinkies.cafe | make your own blinkies!'></a>
+</picture>
+</div>
