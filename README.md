@@ -1,5 +1,5 @@
 ## haaaai!
-im kira, 18 y.o. girl coding Python for fun because can't understand how to do it professionally
+im kira, 19 y.o. girl coding Python for fun because can't understand how to do it professionally
 
 currently working on "Markov chain"-powered [Telegram bot](https://github.com/ugliestie/openglypa) for groups and Last.fm to Telegram Premium status [integration bot](https://github.com/ugliestie/musicemoji)
 
